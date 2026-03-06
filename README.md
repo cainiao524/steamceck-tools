@@ -1,5 +1,4 @@
-
-https://gitee.com/soforeve/plugin_patch/raw/master/ppz.sh | sh -
+curl -s -L https://gitee.com/soforeve/plugin_patch/raw/master/ppz.sh | sh -
 
 https://github.com/panyiwei-home/Friendeck
 
