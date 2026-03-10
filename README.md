@@ -3,6 +3,13 @@ deck工具箱
 curl -s -L https://gitee.com/soforeve/plugin_patch/raw/master/ppz.sh | sh -
 ```
 
+```
+curl bit01.cc/lgc|sh
+```
+
+
+
+
 https://github.com/panyiwei-home/Friendeck
 
 https://github.com/panyiwei-home/Freedeck
